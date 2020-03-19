@@ -1,0 +1,14 @@
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.exe
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.deps.json
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.runtimeconfig.json
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.runtimeconfig.dev.json
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.dll
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.UI.pdb
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.AssemblyInfo.cs
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.dll
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.pdb
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.Logic.dll
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\bin\Debug\netcoreapp3.1\ConnectFour.Logic.pdb
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.UI\obj\Debug\netcoreapp3.1\ConnectFour.UI.csproj.CopyComplete

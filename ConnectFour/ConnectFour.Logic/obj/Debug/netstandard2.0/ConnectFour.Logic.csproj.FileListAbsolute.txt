@@ -1,0 +1,8 @@
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.deps.json
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.dll
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\bin\Debug\netstandard2.0\ConnectFour.Logic.pdb
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.csprojAssemblyReference.cache
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.AssemblyInfoInputs.cache
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.AssemblyInfo.cs
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.dll
+C:\Users\boehm\source\repos\ConnectFour\ConnectFour.Logic\obj\Debug\netstandard2.0\ConnectFour.Logic.pdb
